@@ -1,0 +1,51 @@
+{
+	"list": [{
+		"singer": "\uC608\uC218\uC804\uB3C4\uB2E8",
+		"cate_name": "ywam-porters"
+	},{
+		"singer": "\uC18C\uB9AC\uC5D8",
+		"cate_name": "soriel"
+	},{
+		"singer": "\uC2DC\uC640\uADF8\uB9BC",
+		"cate_name": "poem-painting"
+	},{
+		"singer": "\uC639\uAE30\uC7A5\uC774",
+		"cate_name": "onggijangi"
+	},{
+		"singer": "\uBCF5\uC74C\uC131\uAC00\uBA54\uB4E4\uB9AC",
+		"cate_name": "medley"
+	},{
+		"singer": "\uB9C8\uCEE4\uC2A4",
+		"cate_name": "markers"
+	},{
+		"singer": "\uC81C\uC774\uC5B4\uC2A4",
+		"cate_name": "jusworship"
+	},{
+		"singer": "\uCC2C\uC1A1\uAC00\uBAA8\uC74C",
+		"cate_name": "hymns"
+	},{
+		"singer": "\uD788\uC988\uC70C",
+		"cate_name": "hiswill"
+	},{
+		"singer": "\uD5E4\uB9AC\uD2F0\uC9C0 \uB9E4\uC2A4\uCF70\uC774\uC5B4",
+		"cate_name": "heritage"
+	},{
+		"singer": "\uC778\uAE30\uBCF5\uC74C\uC131\uAC00",
+		"cate_name": "gospel-song"
+	},{
+		"singer": "\uC2E0\uB098\uB294\uCC2C\uC1A1\uAC00",
+		"cate_name": "exciting-hymns"
+	},{
+		"singer": "Don Moen",
+		"cate_name": "don-moen"
+	},{
+		"singer": "\uCC9C\uAD00\uC6C5",
+		"cate_name": "cheon-gwanung"
+	},{
+		"singer": "CCM \uCC2C\uC591",
+		"cate_name": "ccm-praise"
+	},{
+		"singer": "\uC5B4\uB178\uC778\uD305",
+		"cate_name": "anointing"
+	}]
+}
